@@ -1,0 +1,30 @@
+.cal {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #d7d7d7;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+::-webkit-scrollbar-thumb {
+    background: #787878;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-track {
+    background: #d7d7d7;
+    border-radius: 20px;
+}
+::-webkit-scrollbar {
+    width: 0.3em;
+    height: 0.3em;
+}
+
+body {
+    counter-reset: section;
+}
+.harsh{
+    border:2px solid black;
+}

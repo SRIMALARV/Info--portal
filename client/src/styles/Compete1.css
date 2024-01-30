@@ -1,0 +1,106 @@
+.fullcompete{
+    width:100%;
+    height:100%;
+    display:flex;
+    background-color:rgb(233, 243, 243);
+}
+.jobportal-cardss {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: row;
+    position: relative;
+    margin-top: 2.2rem;
+    padding-bottom: 350px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: none;
+    flex-wrap: wrap;
+  }
+  
+  .jobportal-cardss a {
+    padding: 20px 15px;
+    width: 300px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+   
+    justify-content: space-between;
+    background-size: cover;
+    border-radius: 12px;
+    transition: 0.3s;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    gap: 2rem;
+  }
+  
+  .jobportal-cardss a:hover {
+    transform: translateY(-15px);
+  }
+  
+  .jobportal-cardss a:nth-child(1) {
+    background-image: url(https://sloanreview.mit.edu/wp-content/uploads/2021/03/GEN-Hughes-internal-competition-1290x860-1.jpg);
+  }
+  
+  .jobportal-cardss a:nth-child(2) {
+    background-image: url(https://www.volusion.com/blog/content/images/2020/02/Search-Engine-Competition.png);
+  }
+  
+  .jobportal-cardss a:nth-child(3) {
+    background-image: url(https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/23/posts/27224/image/competitor-analysis-for-small-buiness-competitors.jpg);
+  }
+  .jobportal-cardss a:nth-child(4) {
+    background-image: url(https://wedevs.com/_ipx/https://cdn.wedevs.com/uploads/2020/07/10-Secrets-To-Staying-Ahead-In-Ecommerce-Games-With-Competitor-Analysis.png?f=webp&q=90);
+  }
+  
+  .jobportal-cardss a:nth-child(5) {
+    background-image: url(https://clickup.com/blog/wp-content/uploads/2023/06/ai-coding-blog-feature.png);
+  }
+  
+  .jobportal-cardss a:nth-child(6) {
+    background-image: url(https://th.bing.com/th/id/R.5b1a4613195e266ff7adab4a8ace45b7?rik=ptloTk66xbhDDw&riu=http%3a%2f%2fctdpl.co.in%2fwp-content%2fuploads%2f2019%2f04%2fhuddle-room-1.jpg&ehk=%2bc%2fWs0DHB8WrJ7sr74cN4a32Jr%2fjrhuHdiFUgK8xbK0%3d&risl=&pid=ImgRaw&r=0);
+  }
+  
+  .jobportal-cardss a:nth-child(7) {
+    background-image: url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz);
+  }
+  
+  .jobportal-cardss a:nth-child(8) {
+    background-image: url(https://contentstatic.techgig.com/photo/86001236/coding-for-students-learn-with-these-7-apps.jpg?10556);
+  }
+  .jobportal-cardss a strong {
+    font-weight: 600;
+    font-size: 17px;
+  }
+  
+  .jobportal-cardss a:nth-child(1) {
+    color: #094010;
+  }
+  
+  .jobportal-cardss a:nth-child(2) {
+    color: #744505;
+  }
+  
+  .jobportal-cardss a:nth-child(3) {
+    color: #583904;
+  }
+  .jobportal-cardss a:nth-child(4) {
+    color: #094010;
+  }
+  
+  .jobportal-cardss a:nth-child(5) {
+    color: #f5f3f1;
+  }
+  
+  .jobportal-cardss a:nth-child(6) {
+    color: #f1f0f6;
+  }
+  .jobportal-cardss a:nth-child(7) {
+    color: #f3f0ec;
+  }
+  
+  .jobportal-cardss a:nth-child(8) {
+    color: #f6f4f1;
+  }
+ 

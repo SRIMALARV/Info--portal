@@ -1,0 +1,236 @@
+.fulldetails{
+    background-color:rgb(230, 240, 242);
+    color:rgb(37, 26, 49);
+}
+
+.whole{
+    background-color:rgb(230, 240, 242);
+    width:70%;
+    height:320vh;
+    position:relative;
+    left:15%;
+   
+    display:flex;
+    flex-direction:column;
+}
+.whole1{
+    background-color:white;
+    border-radius:10px;
+    height:30vh;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+    margin-bottom:5px;
+}
+.image1{
+    border:2px solid black;
+    width:200px;
+    height:200px;
+   
+}
+.details2{
+ 
+    padding-left:50px;
+    width:70%;
+    height:200px;
+}
+.whole2,.whole3{
+    background:white;
+    height:10vh;
+    width:100%;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:5px;
+}
+.amounts{
+    position:relative;
+    right:200px;
+}
+.watchlist{
+  
+    width:350px;
+    height:50px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.watchlist button,.registerss{
+    width:130px;
+    height:40px;
+    border-radius:10px ;
+    background:violet;
+    color:white;
+    border:none;
+    font-size:15px;
+    margin-right:20px;
+    position:relative;
+    right:10px;
+}
+.amount{
+  
+    width:350px;
+    height:50px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+.whole3{
+    justify-content:space-evenly;
+}
+.impression,.deadline,.teamsize{
+
+    width:200px;
+    height:50px;
+    
+}
+
+.whole4{
+    height:270vh;
+    
+    background-color:rgb(230, 240, 242);
+    width:100%;
+    
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.aboutss,.outcomess{
+    width:98%;
+    height:200px;
+    background:white;
+    font-size:20px;
+    font-style:italic;
+    margin:5px 0;
+    padding:0 10px;
+
+}
+li{
+    list-style-type:none;
+}
+.searchBtns{
+    background:rgb(157, 236, 247);
+    position:relative;
+    bottom:38px;
+    left:600px;
+    color:white;
+    padding:5px 10px;
+    border-radius:10px;
+}
+.linko{
+    background:violet;
+    color:white;
+    position:relative;
+    top:40px;
+    margin:0 20px;
+    border-radius:5px;
+    width:120%;
+    height:100%;
+    font-size:20px;
+}
+
+.detailss{
+    width:98%;
+    height:350px;
+    font-size:20px;
+    background:white;
+    border-radius:10px;
+    padding:0 20px;
+}
+.guideliness
+{        background:white;
+        margin-top:20px;
+        width:98%;
+        height:300px;
+        font-size:20px;
+        border-radius:10px;
+        padding:0 20px;
+}
+.youtubess{
+    position:relative;
+    top:50px;
+}
+.themess{
+    background:white;
+    width:100%;
+    height:220px;
+    padding:0 20px;
+    position:relative;
+    top:40px;
+}
+.organizerss{
+    width:100%;
+    height:200px;
+    background:white;
+    position:relative;
+    top:40px;
+}
+.item contact ng-star-inserted{
+font-family: "Inter",sans-serif!important;
+color: #1c4980;
+font-size: 15px;
+overflow-wrap: break-word;
+box-sizing: inherit;
+outline: 0;
+padding: 20px 15px;
+margin-top: 10px;
+background: #fff;
+margin-bottom: 0;
+}
+.contact[_ngcontent-serverApp-c168] ul[_ngcontent-serverApp-c168] .name[_ngcontent-serverApp-c168] {
+    width: 32px;
+    height: 32px;
+    background: rgba(0,115,230,.1);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0073e6;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+}
+.prizess{
+    margin-top:20px;
+    background:white;
+    position:relative;
+    top:40px;
+    height:200px;
+    
+}
+.videos-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .video-thumbnail {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .video-thumbnail img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .video-thumbnail h3 {
+    margin-top: 10px;
+    color:black;
+  }
+  
+  /* Add more styles for the video player and other components as needed */
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .video-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/free-vector/contest-time-background-with-typography_23-2147904303.jpg?w=2000",
+        "title": "Bzinga Mania Championship",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    },
+    {
+        "id": 1,
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coding-competition-design-template-87dba6fa6e8291b8fe5e29abc492288a_screen.jpg?ts=1676540509",
+        "title": "Coding competition",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    },
+    {
+        "id": 1,
+        "image": "https://www.knowafest.com/files/uploads/Paper%20Presentation-2023040707.jpeg",
+        "title": "Paper presentation",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    },
+    
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/free-vector/contest-time-background-with-typography_23-2147904303.jpg?w=2000",
+        "title": "Bzinga Mania Championship",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    },
+    {
+        "id": 1,
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coding-competition-design-template-87dba6fa6e8291b8fe5e29abc492288a_screen.jpg?ts=1676540509",
+        "title": "Coding competition",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    },
+    {
+        "id": 1,
+        "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-64d64293c8362_bzinga_mania_logo_-_110x110_app_banner.png?d=110x110",
+        "title": "Bzinga Mania Championship",
+        "Organizer":" Organisation : IconBzinga Technologies Private Limited",
+        "Location":"Location : Online",
+        "price": "price:Rs.1000/-"
+    }
+]
